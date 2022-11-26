@@ -1,20 +1,5 @@
 ### Hi there 👋 I'm Arvinder Singh
 
-<!--
-**punjab/punjab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi, I’m Arvinder Singh, an technologist, entrepreneur and life long learner. I'm a software engineer with a passion for building great products. I have a strong background in building scalable and reliable systems. I have worked on a wide range of technologies and have a good understanding of the entire stack. I have a strong interest in distributed systems, machine learning and data science. I have a strong interest in building products that can make a difference in people's lives.
 
 I have over a decade of experience building and commercializing data science startups. Over the last ten years, I have built SaaS products, raised VC capital, collaborated with SMEs, enterprises, and governments, mentored teams, drove marketing and media strategies, for both for-profit and non-profit setups. After cofounding and running a successful startup for 4 years, I decided to take a break and learn new things. I'm currently finishing my Phd in machine learning and natural language processing.
@@ -28,9 +13,6 @@ I have over a decade of experience building and commercializing data science sta
 
 - Natural Language Processing, Machine Learning, and Computer Vision.
 - Web3.0 & Blockchain
-
-👀 My Interests
-I'm interested in software engineering, image processing, and computational geometry.
 
 👯 I’m looking to collaborate on ...
 
